@@ -40,4 +40,6 @@ This project showcases a complete *sales data analysis* workflow using Microsoft
 - Documentation.pdf: Detailed explanation of the process, steps, KPIs, and observations
 
 <img width="1845" height="608" alt="Screenshot 2025-09-16 193625" src="https://github.com/user-attachments/assets/034626b9-08fa-4a0f-aa9f-8f9b63856d43" />
+<img width="1860" height="605" alt="Screenshot 2025-09-16 193741" src="https://github.com/user-attachments/assets/3cbbd500-3915-401f-a153-62b86deef335" />
+
 
