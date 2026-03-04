@@ -27,15 +27,15 @@ This project showcases a complete *sales data analysis* workflow using Microsoft
 <hr/>
 
 ## 📈 Key Insights
-💰 Total Sales
-📦 Total Units Sold
-🏆 Top-Selling Product
-🗂️ Best-Selling Category
-👥 Total Number of Orders
-💳 Most Used Payment Method
-🚫 Least Used Payment Method
-🌍 Top Country by Sales
-🏙️ City with Highest Number of Orders
+ -💰 Total Sales
+ -📦 Total Units Sold
+ -🏆 Top-Selling Product
+ -🗂️ Best-Selling Category
+ -👥 Total Number of Orders
+ -💳 Most Used Payment Method
+ -🚫 Least Used Payment Method
+ -🌍 Top Country by Sales
+ -🏙️ City with Highest Number of Orders
 <hr/>
 
 ## 📂 Files Included
