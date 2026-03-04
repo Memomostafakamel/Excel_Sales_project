@@ -2,7 +2,7 @@
 
 ## 📁 Project Overview
 This project showcases a complete *sales data analysis* workflow using Microsoft Excel. It includes data cleaning with *Power Query, deep analysis using **Pivot Tables, and the creation of **7 interactive dashboards* to extract and visualize meaningful business insights.
-
+<hr/>
 ## 🧰 Tools Used
 - Microsoft Excel  
   - Power Query (for data cleaning)  
@@ -10,7 +10,7 @@ This project showcases a complete *sales data analysis* workflow using Microsoft
   - Dashboards (for visualization)
 - Canva (for presenting the findings)
 - Word (for project documentation)
-
+<hr/>
 ## ✅ Project Highlights
 - Cleaned and transformed messy sales data using Power Query
 - Built pivot tables to analyze metrics across time, products, and regions
@@ -34,12 +34,15 @@ This project showcases a complete *sales data analysis* workflow using Microsoft
 🚫 Least Used Payment Method
 🌍 Top Country by Sales
 🏙️ City with Highest Number of Orders
+<hr/>
 
 ## 📂 Files Included
 - Sales_Analysis_Dashboard.xlsx: Full Excel file with cleaned data, pivot tables, and 7 dashboards
 - Presentation.pdf: Visual summary of insights and findings
 - Documentation.pdf: Detailed explanation of the process, steps, KPIs, and observations
+<hr/>
 
+## Dashboard samples:
 <img width="1845" height="608" alt="Screenshot 2025-09-16 193625" src="https://github.com/user-attachments/assets/034626b9-08fa-4a0f-aa9f-8f9b63856d43" />
 <img width="1860" height="605" alt="Screenshot 2025-09-16 193741" src="https://github.com/user-attachments/assets/3cbbd500-3915-401f-a153-62b86deef335" />
 
