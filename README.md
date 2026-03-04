@@ -39,9 +39,9 @@ This project showcases a complete *sales data analysis* workflow using Microsoft
 <hr/>
 
 ## 📂 Files Included
-- Sales_Analysis_Dashboard.xlsx: Full Excel file with raw and cleaned data, pivot tables, and 7 dashboards
-- Presentation.pdf: Visual summary of insights and findings
-- Documentation.pdf: Detailed explanation of the process, steps, KPIs, and observations
+- [Click here to viewthe report](Sales_Analysis_Dashboard.xlsx): Full Excel file with raw and cleaned data, pivot tables, and 7 dashboards
+- [Click here to viewthe report](Presentation.pdf): Visual summary of insights and findings
+- [Click here to viewthe report](Documentation.pdf): Detailed explanation of the process, steps, KPIs, and observations
 <hr/>
 
 ## Dashboard samples:
