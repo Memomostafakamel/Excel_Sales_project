@@ -39,10 +39,5 @@ This project showcases a complete *sales data analysis* workflow using Microsoft
 - Presentation.pdf: Visual summary of insights and findings
 - Documentation.pdf: Detailed explanation of the process, steps, KPIs, and observations
 
-## 🙋‍♀ About Me
-I'm a Computer Science student and aspiring Data Analyst, currently building my portfolio with real-world projects using Excel and Power Query.
+<img width="1845" height="608" alt="Screenshot 2025-09-16 193625" src="https://github.com/user-attachments/assets/034626b9-08fa-4a0f-aa9f-8f9b63856d43" />
 
-## 📬 Connect with Me
-I'd love your feedback and suggestions – feel free to connect or reach out!
-
-📩 Find me on LinkedIn: [Mariam Mostafa](https://www.linkedin.com/in/mariammostafa16)
