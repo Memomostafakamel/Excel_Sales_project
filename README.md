@@ -3,6 +3,7 @@
 ## 📁 Project Overview
 This project showcases a complete *sales data analysis* workflow using Microsoft Excel. It includes data cleaning with *Power Query, deep analysis using **Pivot Tables, and the creation of **7 interactive dashboards* to extract and visualize meaningful business insights.
 <hr/>
+
 ## 🧰 Tools Used
 - Microsoft Excel  
   - Power Query (for data cleaning)  
@@ -11,6 +12,7 @@ This project showcases a complete *sales data analysis* workflow using Microsoft
 - Canva (for presenting the findings)
 - Word (for project documentation)
 <hr/>
+
 ## ✅ Project Highlights
 - Cleaned and transformed messy sales data using Power Query
 - Built pivot tables to analyze metrics across time, products, and regions
