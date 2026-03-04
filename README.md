@@ -41,7 +41,7 @@ This project showcases a complete *sales data analysis* workflow using Microsoft
 ## 📂 Files Included
 - [Click here to viewthe report](Excel file.zip): Full Excel file with raw and cleaned data, pivot tables, and 7 dashboards
 - [Click here to viewthe report](Presentation.pdf): Visual summary of insights and findings
-- [Click here to viewthe report](Documentation.pdf): Detailed explanation of the process, steps, KPIs, and observations
+- Documentation [here](Documentation.pdf): Detailed explanation of the process, steps, KPIs, and observations
 <hr/>
 
 ## Dashboard samples:
