@@ -27,7 +27,7 @@ This project showcases a complete *sales data analysis* workflow using Microsoft
 <hr/>
 
 ## 📈 Key Insights
- -💰 Total Sales
+ -💰 Total Sales<n/>
  -📦 Total Units Sold
  -🏆 Top-Selling Product
  -🗂️ Best-Selling Category
@@ -39,7 +39,7 @@ This project showcases a complete *sales data analysis* workflow using Microsoft
 <hr/>
 
 ## 📂 Files Included
-- Sales_Analysis_Dashboard.xlsx: Full Excel file with cleaned data, pivot tables, and 7 dashboards
+- Sales_Analysis_Dashboard.xlsx: Full Excel file with raw and cleaned data, pivot tables, and 7 dashboards
 - Presentation.pdf: Visual summary of insights and findings
 - Documentation.pdf: Detailed explanation of the process, steps, KPIs, and observations
 <hr/>
