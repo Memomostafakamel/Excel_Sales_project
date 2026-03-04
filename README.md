@@ -22,6 +22,7 @@ This project showcases a complete *sales data analysis* workflow using Microsoft
   - Shipping and delivery analysis
   - Regions performance
   - Payment methods used
+<hr/>
 
 ## 📈 Key Insights
 💰 Total Sales
