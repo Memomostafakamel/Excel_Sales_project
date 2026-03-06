@@ -51,10 +51,15 @@ This project showcases a complete *sales data analysis* workflow using Microsoft
 - Excel file [Click here to download the report](Excelfile.xlsx): Full Excel file with raw and cleaned data, pivot tables, and 7 dashboards
 - Presentation [Click here to view the report](Presentation.pdf): Visual summary of insights and findings
 - Documentation [Click here to view the report](Documentation.pdf): Detailed explanation of the process, steps, KPIs, and observations
+- Raw Dataset [Click here to download the data](Dataset.csv)
 <hr/>
 
 ## 📸 Dashboard samples:
 <img width="1845" height="608" alt="Screenshot 2025-09-16 193625" src="https://github.com/user-attachments/assets/034626b9-08fa-4a0f-aa9f-8f9b63856d43" />
 <img width="1860" height="605" alt="Screenshot 2025-09-16 193741" src="https://github.com/user-attachments/assets/3cbbd500-3915-401f-a153-62b86deef335" />
+
+<hr/>
+
+If you liked the project,Don't forget to star the repository 🌟
 
 
